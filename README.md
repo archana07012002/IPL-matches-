@@ -30,6 +30,10 @@ Toss Decision (Pie Chart): Shows that teams choose to Field in approximately 64%
 Toss Winner vs. Match Winner: A 100% stacked bar chart visualizing the correlation between winning the toss and winning the game.
 Target Runs vs. Margin (Scatter Plot): Analyzes the competitiveness of matches based on the score set.
 Most Successful Teams/Umpiring: Bar charts detailing team wins and top-performing umpires (e.g., AK Chaudhary, Nitin Menon).
+
+open the main dashboard file ([Insert filename - <a href="https://github.com/archana07012002/IPL-matches-/blob/main/IPL%20Matches.pbix])
+
+
 ## 🚀 How to Use
 Clone this repository.
 Open the .pbix file using Power BI Desktop.

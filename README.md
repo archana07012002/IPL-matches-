@@ -4,7 +4,8 @@ An interactive, end-to-end data visualization project built in Power BI that ana
 ## 📊 Project Overview
 The goal of this project was to transform raw IPL dataset into an actionable dashboard that allows users to drill down into specific seasons, match types (League vs. Playoffs), and team-specific metrics.
 
-![Screenshot ]
+![Screenshot ](https://github.com/archana07012002/IPL-matches-/blob/main/IPL%20Matches.png)
+
 ### Key Insights Tracked:
 Team Performance: Analysis of the most successful teams and win margins.
 Toss Influence: Visualization of how "Bat vs. Field" decisions impact the final match outcome.

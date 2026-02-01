@@ -3,6 +3,8 @@
 An interactive, end-to-end data visualization project built in Power BI that analyzes Indian Premier League (IPL) match data across 17 seasons. This dashboard provides deep insights into team performances, player statistics, venue impacts, and match-day decision-making trends.
 ## 📊 Project Overview
 The goal of this project was to transform raw IPL dataset into an actionable dashboard that allows users to drill down into specific seasons, match types (League vs. Playoffs), and team-specific metrics.
+
+![Screenshot ]
 ### Key Insights Tracked:
 Team Performance: Analysis of the most successful teams and win margins.
 Toss Influence: Visualization of how "Bat vs. Field" decisions impact the final match outcome.
